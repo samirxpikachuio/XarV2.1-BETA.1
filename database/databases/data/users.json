@@ -1,0 +1,52 @@
+{
+  "1087968824": {
+    "userId": 1087968824,
+    "firstName": "Group",
+    "username": "GroupAnonymousBot",
+    "isBot": true,
+    "ban": {},
+    "settings": {},
+    "avatarUrl": "AgACAgEAAxUAAWb060S9Irb4EMdHUwg0ZNJTbkgTAAKqqDEbI4uZRyPprlbPxW7sAQADAgADYQADNgQ",
+    "exp": 0,
+    "money": 0,
+    "joinedAt": "2024-09-26T05:19:04.883Z"
+  },
+  "1472439428": {
+    "userId": 1472439428,
+    "firstName": "Samir",
+    "username": "SamirOE",
+    "isBot": false,
+    "languageCode": "en",
+    "ban": {},
+    "settings": {},
+    "avatarUrl": "AgACAgUAAxUAAWdq5ZermdmEC1QI_b-nyfWbLX-jAALvvzEbA1LgVPxRm138rboJAQADAgADYQADNgQ",
+    "exp": 0,
+    "money": 0,
+    "joinedAt": "2024-12-24T17:06:24.015Z",
+    "messageCount": 1
+  },
+  "6722474255": {
+    "userId": 6722474255,
+    "firstName": "Mesbah",
+    "lastName": "Bbe",
+    "isBot": false,
+    "ban": {},
+    "settings": {},
+    "avatarUrl": "",
+    "exp": 0,
+    "money": 0,
+    "joinedAt": "2024-09-26T03:26:38.560Z"
+  },
+  "6462034505": {
+    "userId": 6462034505,
+    "firstName": "S M Fahim",
+    "username": "smfahimbd",
+    "isBot": false,
+    "ban": {},
+    "settings": {},
+    "avatarUrl": "AgACAgUAAxUAAWb0629bP-jmqjjk2Iz3sFGXYLs0AAJ2vzEb8_dJVCMLueze04onAQADAgADYQADNgQ",
+    "exp": 0,
+    "money": 0,
+    "joinedAt": "2024-09-26T05:04:47.582Z"
+  }
+}

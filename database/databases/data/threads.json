@@ -1,0 +1,71 @@
+{
+  "-1002176211720": {
+    "threadId": -1002176211720,
+    "title": "▢ Team Calyx (Bot Users) ▢",
+    "prefix": "/",
+    "threadImage": "",
+    "threadAdmins": [],
+    "members": [
+      {
+        "id": 1472439428,
+        "fullName": "Samir undefined"
+      }
+    ],
+    "count": [
+      {
+        "username": "SamirOE",
+        "senderID": 1472439428,
+        "count": 1
+      }
+    ],
+    "settings": {},
+    "games": {},
+    "createdAt": "2024-09-26T03:26:38.567Z"
+  },
+  "-1002077179095": {
+    "threadId": -1002077179095,
+    "title": "XarV2.5 - SUPPORT BOX",
+    "prefix": "/",
+    "threadImage": "AQADBQAD5r4xG8_EYVYACAMAAymzi68W____97JtY31HOpE2BA",
+    "threadAdmins": [],
+    "members": [
+      {
+        "id": 1472439428,
+        "fullName": "Samir"
+      }
+    ],
+    "count": [
+      {
+        "username": "SamirOE",
+        "senderID": 1472439428,
+        "count": 5
+      }
+    ],
+    "settings": {},
+    "games": {},
+    "createdAt": "2024-09-26T05:03:32.676Z"
+  },
+  "-1002182430291": {
+    "threadId": -1002182430291,
+    "title": "Architectdevs Discussion",
+    "prefix": "/",
+    "threadImage": "AQADBQAD08QxG3rxSVUACAMAA62xRakW____8Z_FB1eV0442BA",
+    "threadAdmins": [],
+    "members": [
+      {
+        "id": 1087968824,
+        "fullName": "Group"
+      }
+    ],
+    "count": [
+      {
+        "username": "GroupAnonymousBot",
+        "senderID": 1087968824,
+        "count": 23
+      }
+    ],
+    "settings": {},
+    "games": {},
+    "createdAt": "2024-09-26T05:04:51.576Z"
+  }
+}
